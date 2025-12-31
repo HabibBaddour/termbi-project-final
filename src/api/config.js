@@ -1,4 +1,6 @@
-export const API_BASE_URL = '/api'
+// export const API_BASE_URL = '/api'
+export const API_BASE_URL = 'https://training.tamkeen-dev.com/termc/public';
+
 
 export const STORAGE_KEYS = {
   auth: 'termby_auth',
