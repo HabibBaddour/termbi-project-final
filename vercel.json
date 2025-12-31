@@ -1,0 +1,8 @@
+{
+	"rewrites": [
+		{
+			"source": "/api/(.*)",
+			"destination": "https://training.tamkeen-dev.com/termc/public/$1"
+		}
+	]
+}
